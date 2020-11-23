@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <PackageId>DockPanelSuite</PackageId>
-    <PackageVersion>3.1.0-beta6</PackageVersion>
+    <PackageVersion>3.1.0-beta7</PackageVersion>
     <FileVersion>3.1.0.0</FileVersion>
     <Authors>Weifen Luo and other contributors</Authors>
     <Description>The docking library for .Net Windows Forms development which mimics Visual Studio .Net.</Description>
@@ -20,7 +20,7 @@
       Visual Studio 2013 Themes: https://www.nuget.org/packages/DockPanelSuite.ThemeVS2013/
       Visual Studio 2015 Themes: https://www.nuget.org/packages/DockPanelSuite.ThemeVS2015/
     </PackageReleaseNotes>
-    <TargetFrameworks>netcoreapp3.1;net40;net35</TargetFrameworks>
+    <TargetFrameworks>netcoreapp3.1</TargetFrameworks>
     <UseWindowsForms>true</UseWindowsForms>
     <StartupObject />
     <RootNamespace>WeifenLuo.WinFormsUI</RootNamespace>
